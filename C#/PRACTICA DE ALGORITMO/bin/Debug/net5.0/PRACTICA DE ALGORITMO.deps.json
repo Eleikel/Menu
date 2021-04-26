@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "PRACTICA DE ALGORITMO/1.0.0": {
+        "runtime": {
+          "PRACTICA DE ALGORITMO.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "PRACTICA DE ALGORITMO/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
